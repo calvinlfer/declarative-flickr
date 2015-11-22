@@ -1,4 +1,4 @@
-## Declarative Flicker
+## Declarative Flickr
 
 
 ### Running
